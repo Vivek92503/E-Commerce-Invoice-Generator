@@ -2,6 +2,11 @@
 
 This project is a simple e-commerce invoice generator built using Python and the `ReportLab` library. It allows you to dynamically generate invoices with seller details, billing details, item details, and tax calculations. You can also add a signature image to the invoice.
 
+# Table of Contents
+- [Features](#features)
+- [Prereqisites](#prereqisites)
+- [How to Use](#how-to-use)
+
 # Features
 
 - Dynamic input handling for seller details, billing details, and item details.
