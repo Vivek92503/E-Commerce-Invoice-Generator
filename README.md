@@ -28,7 +28,7 @@ pip install reportlab
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-invoice-generator.git
+   git clone https://github.com/Vivek92503/ecommerce-invoice-generator.git
    cd ecommerce-invoice-generator
    ```
 
