@@ -4,7 +4,7 @@ This project is a simple e-commerce invoice generator built using Python and the
 
 # Table of Contents
 - [Features](#features)
-- [Prereqisites](#prereqisites)
+- [Prerequisites](#prerequisites)
 - [How to Use](#how-to-use)
 
 # Features
